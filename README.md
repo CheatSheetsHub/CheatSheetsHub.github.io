@@ -1,7 +1,7 @@
-<img width="80%" align="center" src="./Capture.PNG" alt="portfolio template mockup" /> <br/>
-<img height="350px" align="right" src="./dmo.gif" alt="website mobile demo gif"/>
+<img width="80%" align="center" src="https://github.com/CheatSheetsHub/CheatSheetsHub/blob/5144bb070d35c5cbba4557190d43cb935d9b6eb8/Capture.PNG" alt="portfolio template mockup" /> <br/>
+<img height="350px" align="right" src="https://github.com/CheatSheetsHub/CheatSheetsHub/blob/5144bb070d35c5cbba4557190d43cb935d9b6eb8/dmo.gif" alt="website mobile demo gif"/>
 
-<img align="left" src="./trans.png" height="50" alt="icon"/>
+<img align="left" src="https://github.com/CheatSheetsHub/CheatSheetsHub/blob/5144bb070d35c5cbba4557190d43cb935d9b6eb8/trans.png" height="50" alt="icon"/>
 <h2>CheatSheet-Hub</h2>
 
 <pre>
@@ -54,7 +54,7 @@ and more ..........
 
 Check live demonstration <a href="https://cheatsheetshub.github.io/"><strong>here</strong></a>
 
-<img width="100%" src="./Capture.PNG" alt="Website preview"/>
+<img width="100%" src="https://github.com/CheatSheetsHub/CheatSheetsHub/blob/5144bb070d35c5cbba4557190d43cb935d9b6eb8/Capture.PNG" alt="Website preview"/>
 
 <p align="center">
   <h1 align="center">Summary Of Our Github Live Graph</h1>
